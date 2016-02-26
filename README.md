@@ -1,0 +1,2 @@
+# pluginx
+name of plugin
